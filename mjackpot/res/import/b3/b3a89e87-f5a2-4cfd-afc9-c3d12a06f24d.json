@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"sprite_card_light_mega","texture":"9d37f116-603a-4e86-8dba-bfa12f03d6bc","rect":[154,251,165,225],"offset":[0,0],"originalSize":[165,225]}},{"__type__":"cc.SpriteFrame","content":{"name":"sprite_bg_counter_cards","texture":"9d37f116-603a-4e86-8dba-bfa12f03d6bc","rect":[141,0,50,50],"offset":[0,0],"originalSize":[50,50]}}]
